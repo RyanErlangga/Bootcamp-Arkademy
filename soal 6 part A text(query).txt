@@ -1,0 +1,4 @@
+show databases;
+use soal6;
+show tables;
+select name, id from users;
